@@ -1,8 +1,10 @@
-const myDog = {
-  // Only change code below this line
-  name:"bull dog",
-  legs:2,
-  tails:5,
-  friends:["a","4","4"]
-  // Only change code above this line
+// Setup
+const testObj = {
+  "hat": "ballcap",
+  "shirt": "jersey",
+  "shoes": "cleats"
 };
+
+// Only change code below this line
+const hatValue = testObj.hat;      // Change this line
+const shirtValue = testObj.shirt;    // Change this line
