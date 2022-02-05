@@ -1,2 +1,2 @@
-// Only change code below this line
-const myArray = [[1],[2]];
+const myArray = [50, 60, 70];
+var myData = myArray[0]
