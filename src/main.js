@@ -1,1 +1,1 @@
-const myDecimal = 5.7;
+const product = 2.0 * .025 * 100.0;
