@@ -1,7 +1,4 @@
-const myList = [
-    ["item1",12],
-    ["item1",12],
-    ["item1",12],
-    ["item1",12],
-    ["item1",12]
-  ];
+function reusableFunction(){
+    console.log("Hi World")
+  }
+  reusableFunction()
